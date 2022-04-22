@@ -45,7 +45,7 @@ jobs:
         uses: docker/login-action@v1 
         with:
           username: ariumrd
-          password: Arium2022
+          password: 75247fc0-24ff-4f68-ab03-1cdc797996fd
       -
         name: Build and push
         uses: docker/build-push-action@v2
